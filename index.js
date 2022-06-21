@@ -21,4 +21,4 @@ static titleize(str) {
 }
 
 }
-console.log(Formatter.titleize('a Tale of Two Cities'));
+console.log(Formatter.titleize('A Tale of Two Cities'));
